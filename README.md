@@ -21,3 +21,14 @@ This app does many things :
 # Requirements :
 1. The app uses python 3.x 
 2. matplotlib needs to be downloaded 
+
+
+#Some images from the app :
+## Generating receipes 
+![alt text](https://github.com/AMR-aa1405465/Meals-and-calorie-calculation-app/blob/main/pics/Screen%20Shot%202021-02-10%20at%203.50.08%20PM.png)
+
+![alt text](https://github.com/AMR-aa1405465/Meals-and-calorie-calculation-app/blob/main/pics/Screen%20Shot%202021-02-10%20at%203.50.08%20PM.png)
+
+# Generating report 
+![alt text](https://github.com/AMR-aa1405465/Meals-and-calorie-calculation-app/blob/main/pics/Screen%20Shot%202021-02-10%20at%203.50.59%20PM.png)
+
